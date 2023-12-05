@@ -1,0 +1,11 @@
+.form-comp-name{
+  background-color: aqua;
+}
+.class-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
